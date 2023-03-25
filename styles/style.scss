@@ -370,8 +370,8 @@ main {
   }
 
   #chart {
-    @include padding();
     @include section();
+    padding: 50px 10px;
 
     iframe {
       min-height: 700px;

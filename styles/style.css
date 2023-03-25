@@ -324,7 +324,9 @@ main #tokenomics .title {
   text-transform: capitalize;
   font-size: var(--h1-font-size);
   background-color: var(--black);
-  padding: 0.5rem 0.8rem;
+  width: -moz-max-content;
+  width: max-content;
+  padding: 20px;
   color: var(--thunderbird);
   border-radius: 30px;
   font-family: var(--MineCraft);

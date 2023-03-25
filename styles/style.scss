@@ -212,6 +212,7 @@ header {
   place-items: center;
   @include padding();
   position: relative;
+  background: url(../Imgs/Untitled-1.jpg) center center no-repeat;
 
   .logoi {
     max-width: 10rem;
@@ -335,6 +336,7 @@ main {
       color: var(--thunderbird);
       border-radius: 30px;
       font-family: var(--MineCraft);
+      text-align: center;
     }
     h4 {
       text-align: center;

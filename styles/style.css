@@ -191,6 +191,7 @@ header nav .btn {
   place-items: center;
   padding: 10px 10px;
   position: relative;
+  background: url(../Imgs/Untitled-1.jpg) center center no-repeat;
 }
 @media (min-width: 700px) {
   #hero {
@@ -330,6 +331,7 @@ main #tokenomics .title {
   color: var(--thunderbird);
   border-radius: 30px;
   font-family: var(--MineCraft);
+  text-align: center;
 }
 main #tokenomics h4 {
   text-align: center;
